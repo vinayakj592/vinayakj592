@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vinayakjoshi1930@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15fr37Tn2VuL-SvI4-kn7npKbOHShWDKT/view?usp=drivesdk](https://drive.google.com/file/d/15fr37Tn2VuL-SvI4-kn7npKbOHShWDKT/view?usp=drivesdk)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/15fr37Tn2VuL-SvI4-kn7npKbOHShWDKT/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
