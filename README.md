@@ -1,19 +1,32 @@
-![MasterHead](https://camo.githubusercontent.com/2a52234dd72571aae8dc2beb17d1a26f9dd5ca5afe9a88e5737731c14af0cc16/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Vinayak Joshi</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakj592&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakj592" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vinayakj592&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakj592" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/vinayakj592" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakj592?logo=twitter&style=for-the-badge" alt="vinayakj592" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/vinayakj592" target="blank">
+    <img src="https://img.shields.io/twitter/follow/vinayakj592?logo=twitter&style=for-the-badge" alt="vinayakj592" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **java, data structures & algorithms**
+- 🌟 **4★ CodeChef rating** - [View Profile](https://www.codechef.com/users/vinayakj592)
 
-- 📫 How to reach me **vinayakjoshi1930@gmail.com**
+- 🛠️ Projects:
+  - **PairCode** - [Visit Site](https://paircode.in/)
+  - **Auditor** - [Visit Site](https://complyance-auditor.netlify.app/)
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/15fr37Tn2VuL-SvI4-kn7npKbOHShWDKT/view?usp=drivesdk)
+- 🌐 Check out my portfolio: [vinayakjoshi.netlify.app](https://vinayakjoshi.netlify.app/)
+
+- 📫 Reach me at: **vinayakjoshi1930@gmail.com**
+
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/15fr37Tn2VuL-SvI4-kn7npKbOHShWDKT/view?usp=drivesdk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
