@@ -21,7 +21,7 @@
   - **PairCode** - [Visit Site](https://paircode.in/)
   - **Auditor** - [Visit Site](https://complyance-auditor.netlify.app/)
 
-- 🌐 Check out my portfolio: [vinayakjoshi.netlify.app](https://vinayakjoshi.netlify.app/)
+- 🌐 Check out my portfolio: [vinayakjoshi.tech](https://vinayakjoshi.tech/)
 
 - 📫 Reach me at: **vinayakjoshi1930@gmail.com**
 
